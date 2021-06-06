@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A passionate backend developer and devop from Germany</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexohneander" alt="alexohneander" /></a> </p>
+<h3 align="center">A passionate Backend Developer and DevOps Architect from Germany</h3>
 
 - 📝 I regularly write articles on [blog.dev-null.rocks](blog.dev-null.rocks)
 
