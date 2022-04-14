@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A passionate Backend Developer and DevOps Architect from Germany</h3>
 
-- 📝 I regularly write articles on [alexohneander.de](alexohneander.de)
+- 📝 I regularly write articles on [alexohneander.de](https://alexohneander.de)
 
 - 💬 Ask me about **ruby, python, dotNet**
 
