@@ -3,7 +3,7 @@
 
 - 📝 I regularly write articles on [alexohneander.de](https://alexohneander.de)
 
-- 💬 Ask me about **ruby, python, dotNet**
+- 💬 Ask me about **ruby, NodeJS, .Net**
 
 - 📫 How to reach me **moin@wellnitz-alex.de**
 
