@@ -13,4 +13,5 @@
 <a href="https://dev.to/n00d13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="n00d13" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alex-wellnitz-66341184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex-wellnitz-66341184" height="30" width="40" /></a>
 <a href="https://dribbble.com/alexohneander" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="alexohneander" height="30" width="40" /></a>
+<a rel="me" href="https://mastodon.dev-null.rocks/@alexohneander">Mastodon</a>
 </p>
